@@ -1,0 +1,3 @@
+testing pushing outside repository
+
+checking pushing inside repository
